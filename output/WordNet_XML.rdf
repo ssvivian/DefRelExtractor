@@ -1,0 +1,193 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dsr="http://nlp/resources/DefinitionSemanticRoles#"
+    xmlns:exp="http://nlp/resources/expression/WordNetExpression#"
+    xmlns:vsyn="http://nlp/resources/synsets/WordNetVerbSynset#"
+    xmlns:nsyn="http://nlp/resources/synsets/WordNetNounSynset#">
+  <rdf:Description rdf:about="http://nlp/resources/synsets/WordNetNounSynset#superstrate__superstratum">
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>superimposed on another</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_event"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#layer"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>any</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_acc_det"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#layer"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#layer"/>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>superimposed on another</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_event"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#stratum"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>any</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_acc_det"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#stratum"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#stratum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nlp/resources/synsets/WordNetNounSynset#chinquapin_oak__chinkapin_oak__yellow_chestnut_oak__Quercus_muehlenbergii">
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>that yields a strong durable wood</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_event"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#tree"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>of the eastern United States</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_origin_loc"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#tree"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>deciduous</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#tree"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>medium-sized</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#tree"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#tree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nlp/resources/synsets/WordNetVerbSynset#pan__pan_out__pan_off">
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>to separate out the precious minerals</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_purpose"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#wash"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>in a pan</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#wash"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>dirt</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#wash"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#wash"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nlp/resources/synsets/WordNetNounSynset#Harkat-ul-Mujahidin__HUM__Harkat_ul-Ansar__HUA__Harkat_ul-Mujahedeen__Al_Faran__Movement_of_Holy_Warriors">
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>
+          <rdf:Statement>
+            <rdf:object>in Afghanistan</rdf:object>
+            <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#at_location"/>
+            <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#that_fought_the_Soviet_Union"/>
+          </rdf:Statement>
+        </rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_event"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#group"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>
+          <rdf:Statement>
+            <rdf:object>in the 1980s</rdf:object>
+            <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#at_time"/>
+            <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#that_fought_the_Soviet_Union"/>
+          </rdf:Statement>
+        </rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_event"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#group"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>in Pakistan</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_origin_loc"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#group"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>fundamentalist</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#group"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>Islamic</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#group"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#group"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nlp/resources/synsets/WordNetNounSynset#rough-legged_hawk__roughleg__Buteo_lagopus">
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>is beneficial to farmers</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_assoc_fact"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#hawk"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>that feeds chiefly on small rodents</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_event"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#hawk"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>of the northern hemisphere</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#hawk"/>
+      </rdf:Statement>
+    </rdf:type>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>large</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#hawk"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#hawk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nlp/resources/synsets/WordNetVerbSynset#distribute__administer__mete_out__deal__parcel_out__lot__dispense__shell_out__deal_out__dish_out__allot__dole_out">
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>as in small portions</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#bestow"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#bestow"/>
+    <rdf:type>
+      <rdf:Statement>
+        <rdf:object>as in small portions</rdf:object>
+        <rdf:predicate rdf:resource="http://nlp/resources/DefinitionSemanticRoles#has_diff_qual"/>
+        <rdf:subject rdf:resource="http://nlp/resources/expression/WordNetExpression#administer"/>
+      </rdf:Statement>
+    </rdf:type>
+    <dsr:has_supertype rdf:resource="http://nlp/resources/expression/WordNetExpression#administer"/>
+  </rdf:Description>
+</rdf:RDF>

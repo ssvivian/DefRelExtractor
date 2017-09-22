@@ -1,0 +1,126 @@
+<http://nlp/resources/synsets/WordNetNounSynset#chinquapin_oak__chinkapin_oak__yellow_chestnut_oak__Quercus_muehlenbergii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ffc .
+<http://nlp/resources/synsets/WordNetNounSynset#chinquapin_oak__chinkapin_oak__yellow_chestnut_oak__Quercus_muehlenbergii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ffd .
+<http://nlp/resources/synsets/WordNetNounSynset#chinquapin_oak__chinkapin_oak__yellow_chestnut_oak__Quercus_muehlenbergii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ffe .
+<http://nlp/resources/synsets/WordNetNounSynset#chinquapin_oak__chinkapin_oak__yellow_chestnut_oak__Quercus_muehlenbergii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7fff .
+<http://nlp/resources/synsets/WordNetNounSynset#chinquapin_oak__chinkapin_oak__yellow_chestnut_oak__Quercus_muehlenbergii> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#tree> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "is beneficial to farmers" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_assoc_fact> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#hawk> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fef <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "fundamentalist" .
+_:B72dfab69X3A15ea4739db2X3AX2D7fef <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fef <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#group> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://nlp/resources/synsets/WordNetNounSynset#superstrate__superstratum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff1 .
+<http://nlp/resources/synsets/WordNetNounSynset#superstrate__superstratum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff2 .
+<http://nlp/resources/synsets/WordNetNounSynset#superstrate__superstratum> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#layer> .
+<http://nlp/resources/synsets/WordNetNounSynset#superstrate__superstratum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff3 .
+<http://nlp/resources/synsets/WordNetNounSynset#superstrate__superstratum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff4 .
+<http://nlp/resources/synsets/WordNetNounSynset#superstrate__superstratum> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#stratum> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffe <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "deciduous" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffe <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffe <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#tree> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "any" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_acc_det> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#stratum> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fee <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "in Pakistan" .
+_:B72dfab69X3A15ea4739db2X3AX2D7fee <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_origin_loc> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fee <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#group> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://nlp/resources/synsets/WordNetVerbSynset#pan__pan_out__pan_off> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff9 .
+<http://nlp/resources/synsets/WordNetVerbSynset#pan__pan_out__pan_off> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ffa .
+<http://nlp/resources/synsets/WordNetVerbSynset#pan__pan_out__pan_off> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ffb .
+<http://nlp/resources/synsets/WordNetVerbSynset#pan__pan_out__pan_off> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#wash> .
+<http://nlp/resources/synsets/WordNetVerbSynset#distribute__administer__mete_out__deal__parcel_out__lot__dispense__shell_out__deal_out__dish_out__allot__dole_out> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7fe8 .
+<http://nlp/resources/synsets/WordNetVerbSynset#distribute__administer__mete_out__deal__parcel_out__lot__dispense__shell_out__deal_out__dish_out__allot__dole_out> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#bestow> .
+<http://nlp/resources/synsets/WordNetVerbSynset#distribute__administer__mete_out__deal__parcel_out__lot__dispense__shell_out__deal_out__dish_out__allot__dole_out> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7fe9 .
+<http://nlp/resources/synsets/WordNetVerbSynset#distribute__administer__mete_out__deal__parcel_out__lot__dispense__shell_out__deal_out__dish_out__allot__dole_out> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#administer> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffd <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "of the eastern United States" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffd <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_origin_loc> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffd <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#tree> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://nlp/resources/synsets/WordNetNounSynset#Harkat-ul-Mujahidin__HUM__Harkat_ul-Ansar__HUA__Harkat_ul-Mujahedeen__Al_Faran__Movement_of_Holy_Warriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7fea .
+<http://nlp/resources/synsets/WordNetNounSynset#Harkat-ul-Mujahidin__HUM__Harkat_ul-Ansar__HUA__Harkat_ul-Mujahedeen__Al_Faran__Movement_of_Holy_Warriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7fec .
+<http://nlp/resources/synsets/WordNetNounSynset#Harkat-ul-Mujahidin__HUM__Harkat_ul-Ansar__HUA__Harkat_ul-Mujahedeen__Al_Faran__Movement_of_Holy_Warriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7fee .
+<http://nlp/resources/synsets/WordNetNounSynset#Harkat-ul-Mujahidin__HUM__Harkat_ul-Ansar__HUA__Harkat_ul-Mujahedeen__Al_Faran__Movement_of_Holy_Warriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7fef .
+<http://nlp/resources/synsets/WordNetNounSynset#Harkat-ul-Mujahidin__HUM__Harkat_ul-Ansar__HUA__Harkat_ul-Mujahedeen__Al_Faran__Movement_of_Holy_Warriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff0 .
+<http://nlp/resources/synsets/WordNetNounSynset#Harkat-ul-Mujahidin__HUM__Harkat_ul-Ansar__HUA__Harkat_ul-Mujahedeen__Al_Faran__Movement_of_Holy_Warriors> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#group> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "superimposed on another" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_event> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#stratum> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "to separate out the precious minerals" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_purpose> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#wash> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fed <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "in the 1980s" .
+_:B72dfab69X3A15ea4739db2X3AX2D7fed <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#at_time> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fed <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#that_fought_the_Soviet_Union> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fed <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffc <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "that yields a strong durable wood" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffc <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_event> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffc <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#tree> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "as in small portions" .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#administer> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "any" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_acc_det> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#layer> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "large" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#hawk> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fec <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> _:B72dfab69X3A15ea4739db2X3AX2D7fed .
+_:B72dfab69X3A15ea4739db2X3AX2D7fec <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_event> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fec <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#group> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+<http://nlp/resources/synsets/WordNetNounSynset#rough-legged_hawk__roughleg__Buteo_lagopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff5 .
+<http://nlp/resources/synsets/WordNetNounSynset#rough-legged_hawk__roughleg__Buteo_lagopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff6 .
+<http://nlp/resources/synsets/WordNetNounSynset#rough-legged_hawk__roughleg__Buteo_lagopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff7 .
+<http://nlp/resources/synsets/WordNetNounSynset#rough-legged_hawk__roughleg__Buteo_lagopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:B72dfab69X3A15ea4739db2X3AX2D7ff8 .
+<http://nlp/resources/synsets/WordNetNounSynset#rough-legged_hawk__roughleg__Buteo_lagopus> <http://nlp/resources/DefinitionSemanticRoles#has_supertype> <http://nlp/resources/expression/WordNetExpression#hawk> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffb <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "dirt" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffb <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffb <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#wash> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "as in small portions" .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#bestow> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fe8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "superimposed on another" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_event> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#layer> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "of the northern hemisphere" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#hawk> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7feb <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "in Afghanistan" .
+_:B72dfab69X3A15ea4739db2X3AX2D7feb <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#at_location> .
+_:B72dfab69X3A15ea4739db2X3AX2D7feb <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#that_fought_the_Soviet_Union> .
+_:B72dfab69X3A15ea4739db2X3AX2D7feb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffa <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "in a pan" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffa <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffa <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#wash> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ffa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "Islamic" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#group> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "that feeds chiefly on small rodents" .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_event> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#hawk> .
+_:B72dfab69X3A15ea4739db2X3AX2D7ff6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fea <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> _:B72dfab69X3A15ea4739db2X3AX2D7feb .
+_:B72dfab69X3A15ea4739db2X3AX2D7fea <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_event> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fea <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#group> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fff <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "medium-sized" .
+_:B72dfab69X3A15ea4739db2X3AX2D7fff <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://nlp/resources/DefinitionSemanticRoles#has_diff_qual> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fff <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://nlp/resources/expression/WordNetExpression#tree> .
+_:B72dfab69X3A15ea4739db2X3AX2D7fff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> .

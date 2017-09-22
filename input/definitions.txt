@@ -1,0 +1,6 @@
+1|noun|chinquapin_oak, chinkapin_oak, yellow_chestnut_oak, Quercus_muehlenbergii|medium-sized deciduous tree of the eastern United States that yields a strong durable wood
+2|verb|pan, pan_out, pan_off|wash dirt in a pan to separate out the precious minerals
+3|noun|rough-legged_hawk, roughleg, Buteo_lagopus|large hawk of the northern hemisphere that feeds chiefly on small rodents and is beneficial to farmers
+4|noun|superstrate, superstratum|any stratum or layer superimposed on another
+5|noun|Harkat-ul-Mujahidin, HUM, Harkat_ul-Ansar, HUA, Harkat_ul-Mujahedeen, Al_Faran, Movement_of_Holy_Warriors|an Islamic fundamentalist group in Pakistan that fought the Soviet Union in Afghanistan in the 1980s
+6|verb|distribute, administer, mete_out, deal, parcel_out, lot, dispense, shell_out, deal_out, dish_out, allot, dole_out|administer or bestow as in small portions

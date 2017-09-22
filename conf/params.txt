@@ -1,0 +1,16 @@
+#####RDF model parameters
+
+#The namespace for model's resources
+namespace = http://nlp/resources/
+
+#The name of the resource to be processed (without blanks), will compose resources' URIs
+resource_name = WordNet
+
+#The model can be generated in both RDF/XML-ABREV and N-TRIPLES format, at least one must be set to true
+XML = true
+N-TRIPLES = true
+
+#####General
+
+#Path to WordNet files
+wn_path = C:\\Program Files (x86)\\WordNet\\3.0\\dict

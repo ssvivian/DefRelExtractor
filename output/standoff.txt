@@ -1,0 +1,32 @@
+T1	differentia-quality 0 12	medium-sized
+T2	differentia-quality 13 22	deciduous
+T3	supertype 23 27	tree
+T4	origin-location 28 56	of the eastern United States
+T5	differentia-event 57 90	that yields a strong durable wood
+T6	supertype 91 95	wash
+T7	differentia-quality 96 100	dirt
+T8	differentia-quality 101 109	in a pan
+T9	purpose 110 147	to separate out the precious minerals
+T10	differentia-quality 148 153	large
+T11	supertype 154 158	hawk
+T12	differentia-quality 159 185	of the northern hemisphere
+T13	differentia-event 186 221	that feeds chiefly on small rodents
+T14	O 222 225	and
+T15	associated-fact 226 250	is beneficial to farmers
+T16	accessory-determiner 251 254	any
+T17	supertype 255 262	stratum
+T18	O 263 265	or
+T19	supertype 266 271	layer
+T20	differentia-event 272 295	superimposed on another
+T21	O 296 298	an
+T22	differentia-quality 299 306	Islamic
+T23	differentia-quality 307 321	fundamentalist
+T24	supertype 322 327	group
+T25	origin-location 328 339	in Pakistan
+T26	differentia-event 340 368	that fought the Soviet Union
+T27	event-location 369 383	in Afghanistan
+T28	event-time 384 396	in the 1980s
+T29	supertype 397 407	administer
+T30	O 408 410	or
+T31	supertype 411 417	bestow
+T32	differentia-quality 418 438	as in small portions
