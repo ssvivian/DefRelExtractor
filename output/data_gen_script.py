@@ -27,7 +27,7 @@ dicts = {'labels2idx': {'B-purpose': 11, 'B-associated-fact': 6, 'I-associated-f
  'tables2idx': {'B-purpose': 181, 'B-associated-fact': 176, 'I-associated-fact': 177, 'B-accessory-determiner': 180, 'I-purpose': 182, 'I-differentia-quality': 172, 'I-differentia-event': 174, '<NOTABLE>': 175, 'B-origin-location': 178, 'B-differentia-quality': 170, 'B-supertype': 171, 'I-origin-location': 179, 'B-differentia-event': 173},
  'words2idx': {'minerals': 1, 'strong': 2, 'separate': 3, 'another': 4, 'United': 5, 'farmers': 6, 'medium-sized': 7, 'northern': 8, 'rodents': 9, 'layer': 10, 'out': 11, 'States': 12, 'that': 13, 'durable': 14, 'and': 15, 'of': 16, 'feeds': 17, 'hemisphere': 18, 'wood': 19, 'pan': 20, '<UNK>': 0, 'on': 21, 'a': 22, 'eastern': 23, 'or': 24, 'precious': 25, 'large': 26, 'in': 27, 'tree': 28, 'wash': 29, 'dirt': 30, 'chiefly': 31, 'is': 32, 'deciduous': 33, 'any': 34, 'stratum': 35, 'the': 36, 'superimposed': 37, 'beneficial': 38, 'yields': 39, 'to': 40, 'hawk': 41}}
 
-data = train_set, valid_set, test_set, dict
+data = train_set, valid_set, test_set, dicts
 
 f = open('data_fold3.pkl', 'w')
 pickle.dump(data, f)

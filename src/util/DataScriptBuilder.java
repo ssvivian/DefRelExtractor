@@ -123,12 +123,12 @@ public class DataScriptBuilder {
 		
 		for (Vector<String> sentence : trainSents){
 			for (String word : sentence){
-				if (freqs.containsKey(word)){
-					int freq = freqs.get(word) + 1;
-					freqs.put(word, freq);
+				if (freqs.containsKey(word.toLowerCase())){
+					int freq = freqs.get(word.toLowerCase()) + 1;
+					freqs.put(word.toLowerCase(), freq);
 				}
 				else{
-					freqs.put(word, 1);
+					freqs.put(word.toLowerCase(), 1);
 				}
 			}
 		}
@@ -140,10 +140,12 @@ public class DataScriptBuilder {
 		for (Iterator<String> l = freqs.keySet().iterator(); l.hasNext(); ){
 			String word = (String) l.next();
 			
-			if (freqs.get(word) == 1 && !unk){
-				words2idx.put("<UNK>", wordIdx);
-				wordIdx++;
-				unk = true;
+			if (freqs.get(word) == 1){
+				if (!unk){
+					words2idx.put("<UNK>", wordIdx);
+					wordIdx++;
+					unk = true;
+				}
 			}
 			else{
 				words2idx.put(word, wordIdx);
@@ -212,7 +214,7 @@ public class DataScriptBuilder {
 				else{
 					labelIndex = -1;
 					tableIndex = -1;
-					System.out.println("Label not in training set: " + label);
+					System.out.println("Label not in training set: " + label + ". Please run script builder again.");
 					System.exit(0);
 				}
 			
@@ -266,12 +268,13 @@ public class DataScriptBuilder {
 		for (Iterator<String> i = words2idx.keySet().iterator(); i.hasNext();){
 			String word = (String)i.next();
 			int wordIndex = words2idx.get(word);
+			String sep = word.contains("'") ? "\"" : "'";
 			
 			if (wordDict.equals("'words2idx': {")){
-				wordDict = wordDict + "'" + word + "': " + String.valueOf(wordIndex);
+				wordDict = wordDict + sep + word + sep + ": " + String.valueOf(wordIndex);
 			}
 			else{
-				wordDict = wordDict + ", '" + word + "': " + String.valueOf(wordIndex);
+				wordDict = wordDict + ", " + sep + word + sep + ": " + String.valueOf(wordIndex);
 			}
 		}
 		wordDict = wordDict + "}";
@@ -303,7 +306,7 @@ public class DataScriptBuilder {
 		records.add("valid_set = " + validSet + "\n\n");
 		records.add("test_set = " + testSet + "\n\n");
 		records.add("dicts = " + dicts + "\n\n");
-		records.add("data = train_set, valid_set, test_set, dict\n\n");
+		records.add("data = train_set, valid_set, test_set, dicts\n\n");
 		records.add("f = open('data_fold3.pkl', 'w')\n");
 		records.add("pickle.dump(data, f)");
 		
@@ -322,7 +325,7 @@ public class DataScriptBuilder {
 	
 	public static void main (String args[]){
 		
-		buildScript("input/classified.txt", "output/data_gen_script.py");		
+		buildScript("input/classified.txt", "output/data_gen_script.py");	
 	}
 
 }
