@@ -27,8 +27,10 @@ import org.apache.jena.rdf.model.Property;
 import org.apache.jena.rdf.model.ReifiedStatement;
 import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.rdf.model.Statement;
+import org.apache.jena.shared.uuid.JenaUUID;
 import org.apache.jena.util.URIref;
 import org.apache.jena.vocabulary.RDF;
+import org.apache.jena.vocabulary.RDFS;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 
@@ -314,7 +316,13 @@ public class ModelBuilder {
 		}	
 		
 		String ns = pos.equals("noun") ? nsyn : vsyn;
-		Resource definiendum = m.createResource(ns + URIref.encode(synset));
+		Resource definiendum = m.createResource(ns + JenaUUID.generate().asString());
+		
+		//Add synset words as labels
+		String[] synWords = synset.split("__");
+		for (String synWord : synWords){
+			definiendum.addProperty(RDFS.label, m.createLiteral(synWord));
+		}
 		
 		//Link the definiendum directly to the supertype
 		Resource supertype = m.createResource(exp + spt.replaceAll(" ", "_"));
